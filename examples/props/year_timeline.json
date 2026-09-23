@@ -1,0 +1,31 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "year_timeline",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "year_timeline",
+      "title": "",
+      "items": [
+        "1890: Fundación",
+        "1920: Auge textil",
+        "1965: Cierre"
+      ]
+    }
+  ],
+  "_example": {
+    "group": "Esquemas y datos",
+    "screen": "over",
+    "hqMix": true,
+    "description": "Línea con 3-5 hitos fechados.",
+    "stillAtSeconds": 4.0
+  }
+}

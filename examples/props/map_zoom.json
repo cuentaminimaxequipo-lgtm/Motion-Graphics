@@ -1,0 +1,42 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 7.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "map_zoom",
+      "start": 0.2,
+      "duration": 7,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "map_zoom",
+      "title": "Puebla",
+      "locName": "Puebla, México",
+      "focusName": "Mexico",
+      "highlight": [
+        {
+          "name": "Mexico",
+          "color": "#e8b923",
+          "flag": "flag_mx.png"
+        }
+      ],
+      "markers": [
+        {
+          "lon": -98.2,
+          "lat": 19.04,
+          "label": "Puebla"
+        }
+      ]
+    }
+  ],
+  "_example": {
+    "group": "Mapas",
+    "screen": "full",
+    "hqMix": true,
+    "description": "Zoom de cámara al país/lugar con pin (lo inserta el pipeline al mencionar un lugar nuevo).",
+    "stillAtSeconds": 5.4
+  }
+}

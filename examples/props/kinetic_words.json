@@ -1,0 +1,32 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "kinetic_words",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "kinetic_words",
+      "title": "",
+      "items": [
+        "Cada calle",
+        "guarda",
+        "cuatro siglos",
+        "de historia"
+      ]
+    }
+  ],
+  "_example": {
+    "group": "Texto centrado",
+    "screen": "over",
+    "hqMix": true,
+    "description": "Frase partida en 3-4 trozos a distintos tamaños (máx. 1 por vídeo).",
+    "stillAtSeconds": 3.6
+  }
+}

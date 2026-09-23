@@ -1,0 +1,27 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "tag_label",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "tag_label",
+      "title": "Talavera poblana",
+      "side": "left"
+    }
+  ],
+  "_example": {
+    "group": "Notas en esquina y etiquetas",
+    "screen": "over",
+    "hqMix": true,
+    "description": "Cajita de texto sin flecha en una esquina.",
+    "stillAtSeconds": 3.3000000000000003
+  }
+}

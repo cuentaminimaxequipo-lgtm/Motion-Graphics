@@ -1,0 +1,26 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 1.8,
+  "style": "mid",
+  "events": [
+    {
+      "id": "film_burn",
+      "start": 0.2,
+      "duration": 1.2,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "film_burn",
+      "title": ""
+    }
+  ],
+  "_example": {
+    "group": "Transiciones y estilo Vox",
+    "screen": "full",
+    "hqMix": false,
+    "description": "Quemado de película / flash de sección entre bloques.",
+    "stillAtSeconds": 0.46
+  }
+}

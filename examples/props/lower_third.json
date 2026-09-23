@@ -1,0 +1,28 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "lower_third",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "lower_third",
+      "title": "Mercado de Zacatlán",
+      "subtitle": "Sierra Norte de Puebla",
+      "docStyle": true
+    }
+  ],
+  "_example": {
+    "group": "Notas en esquina y etiquetas",
+    "screen": "over",
+    "hqMix": false,
+    "description": "Rótulo de papel (lower_third con docStyle = paper_tag). Último recurso.",
+    "stillAtSeconds": 3.3000000000000003
+  }
+}

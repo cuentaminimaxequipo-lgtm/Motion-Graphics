@@ -1,0 +1,32 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "vox_chart",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "vox_chart",
+      "title": "Turistas por año",
+      "items": [
+        "2016: 1.2",
+        "2018: 1.9",
+        "2020: 0.6",
+        "2022: 2.4"
+      ]
+    }
+  ],
+  "_example": {
+    "group": "Transiciones y estilo Vox",
+    "screen": "full",
+    "hqMix": false,
+    "description": "Estilo Vox paper-collage: gráfica sobre papel (solo con ≥3 puntos reales).",
+    "stillAtSeconds": 3.8000000000000003
+  }
+}

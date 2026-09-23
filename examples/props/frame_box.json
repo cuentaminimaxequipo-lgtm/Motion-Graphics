@@ -1,0 +1,32 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "frame_box",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "frame_box",
+      "title": "Fachada original",
+      "box": [
+        0.38,
+        0.18,
+        0.72,
+        0.7
+      ]
+    }
+  ],
+  "_example": {
+    "group": "Notas en esquina y etiquetas",
+    "screen": "over",
+    "hqMix": true,
+    "description": "Recuadro blanco sobre una zona del plano + etiqueta (box normalizada).",
+    "stillAtSeconds": 3.3000000000000003
+  }
+}

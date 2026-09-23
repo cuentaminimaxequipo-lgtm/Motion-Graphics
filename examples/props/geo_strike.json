@@ -1,0 +1,55 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 8.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "geo_strike",
+      "start": 0.2,
+      "duration": 8,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "geo_map",
+      "title": "Irán · Estrecho de Ormuz",
+      "locName": "Irán · Estrecho de Ormuz",
+      "highlight": [
+        {
+          "name": "Israel",
+          "color": "#2f6fed",
+          "flag": "flag_il.png"
+        },
+        {
+          "name": "Iran",
+          "color": "#e0362f",
+          "flag": "flag_ir.png"
+        }
+      ],
+      "geoRoute": {
+        "fromLon": 34.9,
+        "fromLat": 31.5,
+        "toLon": 53.7,
+        "toLat": 32.4,
+        "color": "#ff4438",
+        "strike": true
+      },
+      "markers": [
+        {
+          "lon": 56.4,
+          "lat": 26.6,
+          "label": "Estrecho de Ormuz",
+          "color": "#ffcf4d"
+        }
+      ]
+    }
+  ],
+  "_example": {
+    "group": "Mapas",
+    "screen": "full",
+    "hqMix": false,
+    "description": "Demo GeoMap: dos países teñidos con bandera + ruta de ataque con cazas.",
+    "stillAtSeconds": 5.8
+  }
+}

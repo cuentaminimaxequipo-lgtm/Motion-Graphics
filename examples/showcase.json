@@ -1,0 +1,108 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 20,
+  "style": "mid",
+  "events": [
+    {
+      "id": "sc_stat_big",
+      "start": 0.3,
+      "duration": 2.8,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "stat_big",
+      "title": "12",
+      "subtitle": "PUEBLOS DONDE EL TIEMPO SE DETUVO",
+      "docStyle": true
+    },
+    {
+      "id": "sc_date_stamp",
+      "start": 3.2,
+      "duration": 2.2,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "date_stamp",
+      "title": "Julio de 1962",
+      "subtitle": "EL ÚLTIMO TURNO"
+    },
+    {
+      "id": "sc_narrative_text",
+      "start": 5.5,
+      "duration": 3.2,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "narrative_text",
+      "title": "Aquí el tiempo no se detuvo: simplemente decidió caminar más despacio",
+      "items": [
+        "tiempo",
+        "más despacio"
+      ],
+      "revealSeconds": 1.8
+    },
+    {
+      "id": "sc_callout_label",
+      "start": 8.8,
+      "duration": 2.2,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "callout_label",
+      "title": "Torre del reloj",
+      "targetX": 0.58,
+      "targetY": 0.32
+    },
+    {
+      "id": "sc_chart",
+      "start": 11.1,
+      "duration": 2.8,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "chart",
+      "title": "Visitantes al año",
+      "items": [
+        "Cholula: 900 mil",
+        "Atlixco: 450 mil",
+        "Zacatlán: 300 mil"
+      ]
+    },
+    {
+      "id": "sc_map_zoom",
+      "start": 14.0,
+      "duration": 2.8,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "map_zoom",
+      "title": "Puebla",
+      "locName": "Puebla, México",
+      "focusName": "Mexico",
+      "highlight": [
+        {
+          "name": "Mexico",
+          "color": "#e8b923",
+          "flag": "flag_mx.png"
+        }
+      ],
+      "markers": [
+        {
+          "lon": -98.2,
+          "lat": 19.04,
+          "label": "Puebla"
+        }
+      ]
+    },
+    {
+      "id": "sc_vidrush_evidence_matrix",
+      "start": 16.9,
+      "duration": 2.8,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "vidrush_evidence_matrix",
+      "title": "Una historia, dos realidades",
+      "kicker": "EL RETABLO",
+      "subtitle": "LA MONTAÑA",
+      "image": "showcase_img1.jpg",
+      "image2": "showcase_img2.jpg"
+    }
+  ]
+}

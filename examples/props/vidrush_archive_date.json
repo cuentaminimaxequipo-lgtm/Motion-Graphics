@@ -1,0 +1,29 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "vidrush_archive_date",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "vidrush_archive_date",
+      "title": "AGOSTO DE 1565",
+      "kicker": "PUNTO DE INFLEXIÓN",
+      "subtitle": "La fecha que cambió la sierra",
+      "image": "showcase_img2.jpg"
+    }
+  ],
+  "_example": {
+    "group": "Composiciones editoriales a pantalla completa",
+    "screen": "full",
+    "hqMix": false,
+    "description": "Fecha grande que abre un bloque histórico sobre foto de época.",
+    "stillAtSeconds": 3.4000000000000004
+  }
+}

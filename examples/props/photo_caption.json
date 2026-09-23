@@ -1,0 +1,27 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "photo_caption",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "photo_caption",
+      "title": "El retablo intacto",
+      "image": "showcase_img1.jpg"
+    }
+  ],
+  "_example": {
+    "group": "Composiciones editoriales a pantalla completa",
+    "screen": "full",
+    "hqMix": false,
+    "description": "Polaroid centrada sobre negro con pie.",
+    "stillAtSeconds": 3.4000000000000004
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "parts_diagram",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "parts_diagram",
+      "title": "El retablo",
+      "image": "showcase_img1.jpg",
+      "items": [
+        "Lámpara",
+        "Retablo dorado",
+        "Pintura"
+      ],
+      "targets": [
+        [
+          0.72,
+          0.18
+        ],
+        [
+          0.35,
+          0.45
+        ],
+        [
+          0.8,
+          0.55
+        ]
+      ]
+    }
+  ],
+  "_example": {
+    "group": "Esquemas y datos",
+    "screen": "full",
+    "hqMix": false,
+    "description": "Foto en tarjeta + varias etiquetas con línea a sus piezas.",
+    "stillAtSeconds": 3.8000000000000003
+  }
+}

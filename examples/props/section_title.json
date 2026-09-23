@@ -1,0 +1,28 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "section_title",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "section_title",
+      "title": "Los pueblos mágicos",
+      "subtitle": "Capítulo de arranque",
+      "theme": "documentary"
+    }
+  ],
+  "_example": {
+    "group": "Texto centrado",
+    "screen": "over",
+    "hqMix": false,
+    "description": "Título de sección clásico (sin docStyle).",
+    "stillAtSeconds": 3.3000000000000003
+  }
+}

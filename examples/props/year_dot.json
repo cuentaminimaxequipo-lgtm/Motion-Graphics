@@ -1,0 +1,28 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "year_dot",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "year_dot",
+      "title": "1890",
+      "subtitle": "Llega el ferrocarril",
+      "targetX": 0.5
+    }
+  ],
+  "_example": {
+    "group": "Notas en esquina y etiquetas",
+    "screen": "over",
+    "hqMix": true,
+    "description": "Un año sobre una línea fina con punto (más discreto).",
+    "stillAtSeconds": 3.3000000000000003
+  }
+}

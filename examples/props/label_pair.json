@@ -1,0 +1,30 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "label_pair",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "label_pair",
+      "title": "",
+      "items": [
+        "Tradición",
+        "Turismo masivo"
+      ]
+    }
+  ],
+  "_example": {
+    "group": "Notas en esquina y etiquetas",
+    "screen": "over",
+    "hqMix": true,
+    "description": "Dos términos enfrentados (A | B).",
+    "stillAtSeconds": 3.3000000000000003
+  }
+}

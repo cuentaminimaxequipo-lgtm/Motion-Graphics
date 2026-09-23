@@ -1,0 +1,32 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "spec_panel",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "spec_panel",
+      "title": "Equipamiento",
+      "items": [
+        "Telar mecánico",
+        "Caldera de vapor",
+        "Turbina"
+      ],
+      "theme": "modern"
+    }
+  ],
+  "_example": {
+    "group": "Esquemas y datos",
+    "screen": "over",
+    "hqMix": false,
+    "description": "Panel lateral de bullets (fallback genérico de listas).",
+    "stillAtSeconds": 3.6
+  }
+}

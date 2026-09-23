@@ -1,0 +1,32 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "process_flow",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "process_flow",
+      "title": "Cómo se hace la talavera",
+      "items": [
+        "Amasar el barro",
+        "Tornear la pieza",
+        "Primera cocción",
+        "Esmaltar y pintar"
+      ]
+    }
+  ],
+  "_example": {
+    "group": "Esquemas y datos",
+    "screen": "full",
+    "hqMix": false,
+    "description": "Secuencia causal de 3-5 pasos en orden.",
+    "stillAtSeconds": 4.0
+  }
+}

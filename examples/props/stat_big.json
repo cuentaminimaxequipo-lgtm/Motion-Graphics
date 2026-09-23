@@ -1,0 +1,28 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "stat_big",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "stat_big",
+      "title": "12",
+      "subtitle": "PUEBLOS DONDE EL TIEMPO SE DETUVO",
+      "docStyle": true
+    }
+  ],
+  "_example": {
+    "group": "Texto centrado",
+    "screen": "over",
+    "hqMix": true,
+    "description": "Cifra enorme centrada que cuenta hacia arriba + pie en mayúsculas.",
+    "stillAtSeconds": 3.3000000000000003
+  }
+}

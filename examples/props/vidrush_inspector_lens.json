@@ -1,0 +1,29 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "vidrush_inspector_lens",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "vidrush_inspector_lens",
+      "title": "La lámpara de cristal",
+      "image": "showcase_img1.jpg",
+      "targetX": 0.74,
+      "targetY": 0.16
+    }
+  ],
+  "_example": {
+    "group": "Composiciones editoriales a pantalla completa",
+    "screen": "full",
+    "hqMix": false,
+    "description": "Lente que viaja hasta un detalle de la foto (targetX/targetY obligatorios).",
+    "stillAtSeconds": 3.6
+  }
+}

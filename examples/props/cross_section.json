@@ -1,0 +1,31 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "cross_section",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "cross_section",
+      "title": "El túnel bajo la frontera",
+      "items": [
+        "Superficie",
+        "Túnel a 20 m",
+        "Roca"
+      ]
+    }
+  ],
+  "_example": {
+    "group": "Esquemas y datos",
+    "screen": "full",
+    "hqMix": false,
+    "description": "Corte transversal (túnel, búnker, capas del subsuelo).",
+    "stillAtSeconds": 4.0
+  }
+}

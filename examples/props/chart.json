@@ -1,0 +1,31 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "chart",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "chart",
+      "title": "Visitantes al año",
+      "items": [
+        "Cholula: 900 mil",
+        "Atlixco: 450 mil",
+        "Zacatlán: 300 mil"
+      ]
+    }
+  ],
+  "_example": {
+    "group": "Esquemas y datos",
+    "screen": "over",
+    "hqMix": true,
+    "description": "Barras animadas con 2-5 cantidades reales ('Etiqueta: valor').",
+    "stillAtSeconds": 3.8000000000000003
+  }
+}

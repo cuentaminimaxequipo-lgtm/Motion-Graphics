@@ -1,0 +1,28 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "rank_badge",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "rank_badge",
+      "title": "11",
+      "subtitle": "COVADONGA, ATLIXCO",
+      "rank": 11
+    }
+  ],
+  "_example": {
+    "group": "Notas en esquina y etiquetas",
+    "screen": "over",
+    "hqMix": false,
+    "description": "Badge #N de ranking abajo-izquierda.",
+    "stillAtSeconds": 3.3000000000000003
+  }
+}

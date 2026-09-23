@@ -1,0 +1,32 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "pyramid",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "pyramid",
+      "title": "Quién mandaba en la fábrica",
+      "items": [
+        "Dueño",
+        "Capataces",
+        "Maestros tejedores",
+        "Obreros"
+      ]
+    }
+  ],
+  "_example": {
+    "group": "Esquemas y datos",
+    "screen": "over",
+    "hqMix": true,
+    "description": "Pirámide / jerarquía de 2-5 niveles (arriba → abajo).",
+    "stillAtSeconds": 3.8000000000000003
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "doc_highlight",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "doc_highlight",
+      "title": "La cláusula decisiva",
+      "image": "showcase_img1.jpg",
+      "targetX": 0.5,
+      "targetY": 0.62
+    }
+  ],
+  "_example": {
+    "group": "Composiciones editoriales a pantalla completa",
+    "screen": "full",
+    "hqMix": false,
+    "description": "Foto de documento con una línea subrayada con resaltador.",
+    "stillAtSeconds": 3.4000000000000004
+  }
+}

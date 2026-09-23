@@ -1,0 +1,26 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "ticker_word",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "ticker_word",
+      "title": "La fábrica cierra para siempre"
+    }
+  ],
+  "_example": {
+    "group": "Texto centrado",
+    "screen": "full",
+    "hqMix": false,
+    "description": "Titular rojo que se desliza sobre negro (prensa / veredicto).",
+    "stillAtSeconds": 3.3000000000000003
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "vidrush_cross_section",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "vidrush_cross_section",
+      "title": "El suelo enfría la casa",
+      "subtitle": "ruta del aire / sección",
+      "items": [
+        "Aire caliente",
+        "Tierra a 18 °C"
+      ]
+    }
+  ],
+  "_example": {
+    "group": "Esquemas y datos",
+    "screen": "full",
+    "hqMix": false,
+    "description": "Corte técnico estilo VidRush (mecanismo físico / terreno).",
+    "stillAtSeconds": 4.0
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "circle_compare",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "circle_compare",
+      "title": "Dos caras del mismo estado",
+      "items": [
+        "DENTRO",
+        "FUERA"
+      ],
+      "image": "showcase_img1.jpg",
+      "image2": "showcase_img2.jpg"
+    }
+  ],
+  "_example": {
+    "group": "Composiciones editoriales a pantalla completa",
+    "screen": "full",
+    "hqMix": false,
+    "description": "Antes/después con dos fotos en círculo sobre acento.",
+    "stillAtSeconds": 3.6
+  }
+}

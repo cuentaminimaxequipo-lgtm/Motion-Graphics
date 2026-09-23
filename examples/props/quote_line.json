@@ -1,0 +1,27 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "quote_line",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "quote_line",
+      "title": "Aquí nadie se iba; el pueblo te retenía.",
+      "kicker": "Vecina de Cuetzalan"
+    }
+  ],
+  "_example": {
+    "group": "Notas en esquina y etiquetas",
+    "screen": "over",
+    "hqMix": true,
+    "description": "Cita a máquina de escribir abajo, con autor.",
+    "stillAtSeconds": 3.8000000000000003
+  }
+}

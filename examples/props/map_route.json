@@ -1,0 +1,56 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 7.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "map_route",
+      "start": 0.2,
+      "duration": 7,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "map_route",
+      "title": "La ruta de la plata",
+      "locName": "Veracruz → Sevilla",
+      "highlight": [
+        {
+          "name": "Mexico",
+          "color": "#e8b923"
+        },
+        {
+          "name": "Spain",
+          "color": "#e8b923"
+        }
+      ],
+      "geoRoute": {
+        "fromLon": -96.13,
+        "fromLat": 19.17,
+        "toLon": -5.98,
+        "toLat": 37.39,
+        "color": "#e8b923"
+      },
+      "markers": [
+        {
+          "lon": -96.13,
+          "lat": 19.17,
+          "label": "Veracruz"
+        },
+        {
+          "lon": -5.98,
+          "lat": 37.39,
+          "label": "Sevilla"
+        }
+      ]
+    }
+  ],
+  "_example": {
+    "group": "Mapas",
+    "screen": "full",
+    "hqMix": true,
+    "description": "Mapa vectorial (d3-geo) con ruta animada entre dos puntos, países teñidos y marcadores.",
+    "stillAtSeconds": 5.4
+  }
+}

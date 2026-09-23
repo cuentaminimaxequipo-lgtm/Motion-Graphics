@@ -1,0 +1,27 @@
+{
+  "name": "motion-graphics",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Plantillas de motion graphics documentales (Remotion/React): textos, etiquetas, esquemas, mapas y composiciones editoriales.",
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.tsx",
+    "render": "remotion render src/index.tsx PipelineMotion out/video.mp4 --props=examples/showcase.json",
+    "still": "remotion still src/index.tsx PipelineMotion out/still.png",
+    "examples": "node scripts/render-examples.mjs",
+    "validate:vidrush": "node scripts/validate-vidrush-events.mjs"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.477",
+    "@remotion/cli": "4.0.477",
+    "@remotion/renderer": "4.0.477",
+    "@types/d3-geo": "^3.1.0",
+    "d3-geo": "^3.1.1",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "remotion": "4.0.477",
+    "topojson-client": "^3.1.0",
+    "typescript": "5.8.3",
+    "world-atlas": "^2.0.2"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "photo_strip",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "photo_strip",
+      "title": "Tres paradas",
+      "items": [
+        "Capilla",
+        "Montaña",
+        "Mirador"
+      ],
+      "image": "showcase_img1.jpg",
+      "image2": "showcase_img2.jpg",
+      "rank": 1
+    }
+  ],
+  "_example": {
+    "group": "Composiciones editoriales a pantalla completa",
+    "screen": "full",
+    "hqMix": false,
+    "description": "Tira de 2-3 fotos numeradas con pie.",
+    "stillAtSeconds": 3.6
+  }
+}

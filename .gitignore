@@ -1,0 +1,9 @@
+node_modules/
+out/
+build/
+.env
+.env.*
+props_*.json
+vidrush_qc_*.json
+*.log
+.DS_Store

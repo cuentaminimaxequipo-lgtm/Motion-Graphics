@@ -1,0 +1,33 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "vidrush_dossier_compare",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "vidrush_dossier_compare",
+      "title": "Alguien reescribió la historia",
+      "kicker": "ORIGINAL / 1962",
+      "subtitle": "CORREGIDO / 1971",
+      "items": [
+        "La fábrica cerró por la crisis",
+        "La fábrica cerró por la huelga"
+      ],
+      "image": "showcase_img1.jpg"
+    }
+  ],
+  "_example": {
+    "group": "Composiciones editoriales a pantalla completa",
+    "screen": "full",
+    "hqMix": false,
+    "description": "Dos versiones de un documento/relato enfrentadas.",
+    "stillAtSeconds": 3.6
+  }
+}

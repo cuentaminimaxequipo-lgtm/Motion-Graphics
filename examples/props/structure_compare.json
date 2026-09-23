@@ -1,0 +1,30 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "structure_compare",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "structure_compare",
+      "title": "Las más altas",
+      "items": [
+        "Empire State: 381 m",
+        "Torres Gemelas: 415 m"
+      ]
+    }
+  ],
+  "_example": {
+    "group": "Esquemas y datos",
+    "screen": "full",
+    "hqMix": false,
+    "description": "Comparación de dos estructuras con una misma magnitud.",
+    "stillAtSeconds": 3.8000000000000003
+  }
+}

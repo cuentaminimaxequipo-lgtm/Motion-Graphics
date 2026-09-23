@@ -1,0 +1,27 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "caption_bar",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "caption_bar",
+      "title": "Cuetzalan del Progreso",
+      "kicker": "Número 7"
+    }
+  ],
+  "_example": {
+    "group": "Notas en esquina y etiquetas",
+    "screen": "over",
+    "hqMix": false,
+    "description": "Barra de acento abajo con el nombre del capítulo/lugar.",
+    "stillAtSeconds": 3.3000000000000003
+  }
+}

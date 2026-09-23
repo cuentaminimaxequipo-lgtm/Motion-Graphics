@@ -1,0 +1,28 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "big_stat_classic",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "stat_big",
+      "title": "300 m",
+      "subtitle": "altura de la nueva torre",
+      "theme": "modern"
+    }
+  ],
+  "_example": {
+    "group": "Texto centrado",
+    "screen": "over",
+    "hqMix": false,
+    "description": "Variante clásica de stat_big (sin docStyle, con panel del tema).",
+    "stillAtSeconds": 3.3000000000000003
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "videoSrc": "demo_footage.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 5.6,
+  "style": "mid",
+  "events": [
+    {
+      "id": "engineering_schematic",
+      "start": 0.2,
+      "duration": 5.0,
+      "lang": "es",
+      "accent": "#e8b923",
+      "type": "engineering_schematic",
+      "schematicKind": "floor_plan",
+      "title": "El núcleo aguanta el peso",
+      "items": [
+        "Núcleo de hormigón",
+        "Pilares de acero",
+        "Fachada"
+      ]
+    }
+  ],
+  "_example": {
+    "group": "Esquemas y datos",
+    "screen": "full",
+    "hqMix": false,
+    "description": "Plano técnico (schematicKind: floor_plan, column_section, facade_section…).",
+    "stillAtSeconds": 4.0
+  }
+}
